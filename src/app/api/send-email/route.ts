@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 import nodemailer from "nodemailer";
 
 const LOCATION_EMAILS: Record<string, string> = {
-  "Bala Cynwyd Office": "shanedsouzatx@gmail.com",
+  "Bala Cynwyd Office": "qwenton.balawejder@batp.org",
   "Philadelphia Office": "samantha.power@batp.org",
   "South Philadelphia Satellite Office": "williampower@batp.org"
 };
