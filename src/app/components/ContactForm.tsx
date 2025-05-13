@@ -138,7 +138,7 @@ const JobApplication = () => {
 
   return (
     <div className="max-w-2xl mx-auto px-4 py-8">
-      <h2 className="text-3xl font-bold text-blue-600 mb-2">Documnet Submission Form</h2>
+      <h2 className="text-3xl font-bold text-blue-600 mb-2">Document Submission Form</h2>
       <p className="text-gray-600 mb-6">
         Please complete this form to apply for a position at our organization.
       </p>
